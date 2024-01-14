@@ -1,6 +1,5 @@
 # Laravel Repository System Todo Application
 
-![Todo Application](link_to_project_image.png)
 
 ## Overview
 
